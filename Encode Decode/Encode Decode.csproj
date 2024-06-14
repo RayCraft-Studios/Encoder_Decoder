@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <RootNamespace>Encode_Decode</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Assets\logoencrypt.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\locked.png" />
+    <None Remove="Assets\logoencrypt.ico" />
+    <None Remove="Assets\logoencrypt.png" />
+    <None Remove="Assets\unlocked.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\locked.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\logoencrypt.ico" />
+    <Resource Include="Assets\logoencrypt.png" />
+    <Resource Include="Assets\unlocked.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>
