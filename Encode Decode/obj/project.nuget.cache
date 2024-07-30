@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pyBB+xBM1TfomeFsoU21/As7CemuQHzODHoLw1WziOj7NqFJxgERmQp2YbWk1ZvNfe6fsIzX+B9P32kGA4TRrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IRay\\Desktop\\Neuer Ordner\\Encoder_Decoder\\Encode Decode\\Encode Decode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IRay\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\IRay\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\IRay\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\IRay\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

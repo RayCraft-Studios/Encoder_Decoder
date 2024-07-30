@@ -1,0 +1,21 @@
+C:\Users\IRay\Desktop\Neuer Ordner\Encoder_Decoder\Encode Decode\bin\Debug\net7.0-windows\Encode Decode.exe
+C:\Users\IRay\Desktop\Neuer Ordner\Encoder_Decoder\Encode Decode\bin\Debug\net7.0-windows\Encode Decode.deps.json
+C:\Users\IRay\Desktop\Neuer Ordner\Encoder_Decoder\Encode Decode\bin\Debug\net7.0-windows\Encode Decode.runtimeconfig.json
+C:\Users\IRay\Desktop\Neuer Ordner\Encoder_Decoder\Encode Decode\bin\Debug\net7.0-windows\Encode Decode.dll
+C:\Users\IRay\Desktop\Neuer Ordner\Encoder_Decoder\Encode Decode\bin\Debug\net7.0-windows\Encode Decode.pdb
+C:\Users\IRay\Desktop\Neuer Ordner\Encoder_Decoder\Encode Decode\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\IRay\Desktop\Neuer Ordner\Encoder_Decoder\Encode Decode\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\IRay\Desktop\Neuer Ordner\Encoder_Decoder\Encode Decode\obj\Debug\net7.0-windows\Encode Decode_MarkupCompile.cache
+C:\Users\IRay\Desktop\Neuer Ordner\Encoder_Decoder\Encode Decode\obj\Debug\net7.0-windows\Encode Decode_MarkupCompile.lref
+C:\Users\IRay\Desktop\Neuer Ordner\Encoder_Decoder\Encode Decode\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\IRay\Desktop\Neuer Ordner\Encoder_Decoder\Encode Decode\obj\Debug\net7.0-windows\Encode Decode.g.resources
+C:\Users\IRay\Desktop\Neuer Ordner\Encoder_Decoder\Encode Decode\obj\Debug\net7.0-windows\Encode Decode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IRay\Desktop\Neuer Ordner\Encoder_Decoder\Encode Decode\obj\Debug\net7.0-windows\Encode Decode.AssemblyInfoInputs.cache
+C:\Users\IRay\Desktop\Neuer Ordner\Encoder_Decoder\Encode Decode\obj\Debug\net7.0-windows\Encode Decode.AssemblyInfo.cs
+C:\Users\IRay\Desktop\Neuer Ordner\Encoder_Decoder\Encode Decode\obj\Debug\net7.0-windows\Encode Decode.csproj.CoreCompileInputs.cache
+C:\Users\IRay\Desktop\Neuer Ordner\Encoder_Decoder\Encode Decode\obj\Debug\net7.0-windows\Encode Decode.sourcelink.json
+C:\Users\IRay\Desktop\Neuer Ordner\Encoder_Decoder\Encode Decode\obj\Debug\net7.0-windows\Encode Decode.dll
+C:\Users\IRay\Desktop\Neuer Ordner\Encoder_Decoder\Encode Decode\obj\Debug\net7.0-windows\refint\Encode Decode.dll
+C:\Users\IRay\Desktop\Neuer Ordner\Encoder_Decoder\Encode Decode\obj\Debug\net7.0-windows\Encode Decode.pdb
+C:\Users\IRay\Desktop\Neuer Ordner\Encoder_Decoder\Encode Decode\obj\Debug\net7.0-windows\Encode Decode.genruntimeconfig.cache
+C:\Users\IRay\Desktop\Neuer Ordner\Encoder_Decoder\Encode Decode\obj\Debug\net7.0-windows\ref\Encode Decode.dll
